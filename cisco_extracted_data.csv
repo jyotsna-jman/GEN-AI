@@ -1,0 +1,30 @@
+Website,Extracted Information
+https://www.cisco.com/,"```json
+{
+  ""company_mission_statement_or_core_values"": ""The company's purpose is stated as 'Power an inclusive future for all'. Core values emphasize their people, technology, changing the world, making a meaningful difference, supporting each other, shared success, inclusivity ('Everyone welcomed'), conscious culture, inspiring leaders, and global problem-solving."",
+  ""products_or_services"": [
+    ""Software Solutions"",
+    ""Network Solutions (including Cisco 8000 Series Routers, Cisco Nexus Hyperfabric, Agile Services Networking)"",
+    ""Cybersecurity Solutions (including Cisco AI Defense, Cisco Hypershield)"",
+    ""Observability"",
+    ""Collaboration"",
+    ""Computing"",
+    ""AI Solutions"",
+    ""Cloud Management""
+  ],
+  ""founding_details"": {
+    ""founded_date"": ""Not explicitly mentioned in the provided text. The text notes 'four decades of purpose-driven work' in the context of an FY24 report, suggesting a founding year around 1984."",
+    ""founders"": ""Not mentioned in the provided text.""
+  },
+  ""headquarters_location"": ""San Jose, CA, USA. Specific addresses mentioned: 170 West Tasman Dr. and 300 East Tasman Dr., San Jose, CA 95134 USA."",
+  ""key_executives_or_leadership"": [
+    ""Chuck Robbins (CEO)""
+  ],
+  ""notable_awards_or_recognitions"": [
+    ""Industrial IoT Company of the Year 2025"",
+    ""100 Best by Great Place to Work 2024"",
+    ""No. 1 in PEOPLE® Companies that Care 2023"",
+    ""No. 3 in World's Best Workplaces™ by Great Place to Work and Fortune 2023""
+  ]
+}
+```"

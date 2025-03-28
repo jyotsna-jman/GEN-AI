@@ -1,0 +1,82 @@
+Website,Extracted Information
+https://www.cisco.com/,"```json
+{
+  ""Cisco"": {
+    ""mission_statement_or_core_values"": ""Not explicitly stated in the provided text. Strategic direction mentioned: 'connect and protect organizations in the AI era'."",
+    ""products_or_services"": [
+      ""Software, Network, and Cybersecurity Solutions"",
+      ""Cisco 8000 Series Routers"",
+      ""Cisco AI Defense"",
+      ""Cisco Nexus Hyperfabric"",
+      ""Cisco Hypershield"",
+      ""Networking"",
+      ""Observability"",
+      ""Security"",
+      ""Collaboration"",
+      ""Computing"",
+      ""AI"",
+      ""Agile Services Networking"",
+      ""Cisco Validated Training""
+    ],
+    ""founding_details"": ""Not found in the provided text."",
+    ""headquarters_location"": ""Not explicitly stated in the provided text (San Diego, CA mentioned only as an event location)."",
+    ""key_executives_or_leadership"": ""General mention of 'Cisco executives', but no specific names listed."",
+    ""notable_awards_or_recognitions"": [
+      ""Industrial IoT Company of the Year 2025""
+    ]
+  },
+  ""BP"": {
+    ""mission_statement_or_core_values"": ""Refocused strategy prioritizing high-return assets, performance improvements, cost efficiency, sustainably growing long-term shareholder value, and focused aims for net zero, people, and planet."",
+    ""products_or_services"": [
+      ""Energy (implied oil and gas exploration/production/transport)"",
+      ""Gas pipeline partnerships (e.g., TANAP)"",
+      ""Mobility & Convenience business""
+    ],
+    ""founding_details"": ""Not found in the provided text."",
+    ""headquarters_location"": ""Not explicitly stated in the provided text."",
+    ""key_executives_or_leadership"": [
+      ""Murray Auchincloss (CEO)""
+    ],
+    ""notable_awards_or_recognitions"": ""Not found in the provided text.""
+  },
+  ""Accenture"": {
+    ""mission_statement_or_core_values"": ""Embrace change and create value for all stakeholders; Tagline: 'Let There Be Change'."",
+    ""products_or_services"": [
+      ""Consulting (Enterprise Models, Infrastructure, Customer Service, Digital Transformation, AI Strategy)"",
+      ""Technology Services (Gen AI agents, AI Refinery, Custom LLM models, Cybersecurity)"",
+      ""Outsourcing/Managed Services (Shared Services Operations)""
+    ],
+    ""founding_details"": ""Not found in the provided text."",
+    ""headquarters_location"": ""Not explicitly stated in the provided text."",
+    ""key_executives_or_leadership"": [
+      ""Julie Sweet (Chair and CEO)""
+    ],
+    ""notable_awards_or_recognitions"": [
+      ""No. 6 on World's Best Workplaces™ list (Great Place To Work)"",
+      ""Top spot on Forbes World’s Best Management Consulting Firms"",
+      ""Julie Sweet named one of TIME100 Most Influential People of 2024""
+    ]
+  },
+  ""Visa"": {
+    ""mission_statement_or_core_values"": ""Described as a 'trusted leader in digital payments', but no explicit mission statement found in the provided text."",
+    ""products_or_services"": [
+      ""Digital payments (implied: payment cards and network services)""
+    ],
+    ""founding_details"": ""Not found in the provided text."",
+    ""headquarters_location"": ""Not found in the provided text."",
+    ""key_executives_or_leadership"": ""Not found in the provided text."",
+    ""notable_awards_or_recognitions"": ""Not found in the provided text.""
+  },
+  ""GSK"": {
+    ""mission_statement_or_core_values"": ""Purpose: To unite science, technology and talent to get ahead of disease together. Aim: To positively impact the health of 2.5 billion people by the end of the decade. Values implied: Ethical standards, Access, Global Health & Health Security, Environment, Inclusion."",
+    ""products_or_services"": [
+      ""Biopharmaceuticals (medicines and vaccines)"",
+      ""Focus Areas: Respiratory, Immunology & Inflammation, Oncology, HIV, Infectious Diseases (including antibiotics)""
+    ],
+    ""founding_details"": ""Not found in the provided text."",
+    ""headquarters_location"": ""Not explicitly stated in the provided text (London mentioned in context of share price)."",
+    ""key_executives_or_leadership"": ""Not found in the provided text."",
+    ""notable_awards_or_recognitions"": ""Not found in the provided text.""
+  }
+}
+```"
